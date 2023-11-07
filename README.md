@@ -1,2 +1,2 @@
-# Data_Visualization_Challenge-
+# Data_Visualization_Challenge
 Challenge 5 - Data Visualization
